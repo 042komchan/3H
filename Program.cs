@@ -1,17 +1,12 @@
 ﻿class Program {
     static void Main(string[] args){
-        int count = 0;
-        int i = 0;
+        int sum, add, multiply;
 
-        while(1 < 10) {
-            int x = int.Parse(Console.ReadLine());
-            i++;
-            if (x % 5 == 0) {
-                continue;
+        for (sum = 0, add = 1, multiply = 1;
+        add <= 10;
+        add++, multiply *= 2) {
+            sum += add * multiply;
             }
-        Console.WriteLine("even");
-        count++;
-        }
-    Console.WriteLine("Total: {0}", count);
+            Console.WriteLine("Summary is {0}", sum);
     }
 }
