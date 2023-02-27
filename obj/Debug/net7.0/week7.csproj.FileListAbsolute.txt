@@ -1,0 +1,15 @@
+E:\มหาลัย\MDT112\week7\bin\Debug\net7.0\week7.exe
+E:\มหาลัย\MDT112\week7\bin\Debug\net7.0\week7.deps.json
+E:\มหาลัย\MDT112\week7\bin\Debug\net7.0\week7.runtimeconfig.json
+E:\มหาลัย\MDT112\week7\bin\Debug\net7.0\week7.dll
+E:\มหาลัย\MDT112\week7\bin\Debug\net7.0\week7.pdb
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.csproj.AssemblyReference.cache
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.GeneratedMSBuildEditorConfig.editorconfig
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.AssemblyInfoInputs.cache
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.AssemblyInfo.cs
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.csproj.CoreCompileInputs.cache
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.dll
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\refint\week7.dll
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.pdb
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\week7.genruntimeconfig.cache
+E:\มหาลัย\MDT112\week7\obj\Debug\net7.0\ref\week7.dll
