@@ -1,11 +1,1 @@
-﻿class Program {
-    static void Main(string[] args){
-        int sum = 0;
-        int i = 1;
-         do{
-            sum = sum + 1 ;
-            ++i;
-            }while (i <= 5);
-            Console.WriteLine(sum);
-    }
-}
+﻿class Program {static void Main(string[] args){int password = int.Parse (Console.ReadLine());string name = (Console.ReadLine());int code100000 = password / 100_000;int code1 = password % 10;int code10 = (password % 100)/10;int code100 = (password % 1_000)/100; int code1000 = (password % 10_000)/1000;int code10000 = (password % 100_000)/10_000;  if (name == "CIA"){ if(code1% 3==0){if (code10!= 1&& code10!= 3&& code10!= 5){if (code1000 >=6&& code1000!=8){Console.WriteLine ("true");}}} if((!(code1% 3==0))||(!(code10!= 1&& code10!= 3&& code10!= 5))||(!(code1000 >=6&& code1000!=8))){Console.WriteLine ("False");} }if (name == "FBI"){ if(code100000 >3&& code100000<8){if (code100% 2==0&& code100!=6){if (code10000% 2==1){Console.WriteLine ("true");}}} if((!(code100000 >3&& code100000<8))||(!(code100% 2==0&& code100!=6))||(!(code10000% 2==1))){Console.WriteLine ("False");} }if (name == "NSA"){ if(30%code1==0){if (code100% 3==0&& code100% 2==1){if (code1 ==7 || code10 ==7 || code100 ==7 || code1000 ==7 || code10000 ==7 || code100000 ==7){Console.WriteLine ("true");}}} if((!(30%code1==0))||(!(code100% 3==0&& code100% 2==1))||(!(code1 ==7 || code10 ==7 || code100 ==7 || code1000 ==7 || code10000 ==7 || code100000 ==7))){Console.WriteLine ("False");} }}}
